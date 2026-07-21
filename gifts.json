@@ -2,8 +2,8 @@
   "_comment": "DevGram: скрытые подарки Telegram. Показываются в окне «Подарить подарок» сверху. Поля: id — gift_id подарка; stars — цена в звёздах; pack — короткое имя стикерпака; sticker_number — номер стикера в паке (с нуля).",
   "pack": "gifts_1_by_gifts_changes_bot",
   "gifts": [
-    { "id": 5956217000635139069, "stars": 50, "sticker_number": 10 },
-    { "id": 5922558454332916696, "stars": 50, "sticker_number": 9 },
+    { "id": 5956217000635139069, "stars": 50, "sticker_number": 9 },
+    { "id": 5922558454332916696, "stars": 50, "sticker_number": 10 },
     { "id": 5801108895304779062, "stars": 50, "sticker_number": 7 },
     { "id": 5800655655995968830, "stars": 50, "sticker_number": 6 },
     { "id": 5866352046986232958, "stars": 50, "sticker_number": 5 },
